@@ -1,0 +1,80 @@
+body {
+  background-image: url("http://cdn.wallpapersafari.com/64/65/fbyCK1.jpg");
+  font-family: comic sans ms;
+  color: #e6e6e6;
+}
+
+.row {
+  width: 1000px;
+  height: 75px;
+  border: 1px solid black;
+  box-sizing: border-box;
+  border-radius: 5px;
+  margin: auto; 
+  background-color: #6600cc;
+}
+
+.twitchContainer {
+  display: flex;
+  flex-direction: column;
+  height: 850px;
+  width: 1200px;
+  background-color: #cc99ff;
+  align: center;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+#footer {
+  margin-top: 10px;
+}
+
+a {
+  color: white;
+}
+a:hover {
+  text-decoration: none;
+  outline: none;
+}
+
+.twitchImage {
+  width: 800px;
+  justify-content: center;
+  margin: auto;
+}
+
+#syndicateLogo {
+  width: 50px;
+  height: 50px;
+  border-radius: 8px;
+  margin-top: 12px;
+}
+
+#oGamingLogo{
+  height: 50px;
+  width: 50px;
+  border-radius: 8px;
+  margin-top: 12px;
+}
+
+#eslSc2 {
+  height: 50px;
+  width: 50px;
+  border-radius: 8px;
+  margin-top: 12px;
+}
+
+#fccLogo {
+  height: 50px;
+  width: 50px;
+  border-radius: 8px;
+  margin-top: 12px;
+}
+
+#summitLogo {
+  height: 50px;
+  width: 50px;
+  border-radius: 8px;
+  margin-top: 12px;
+}
